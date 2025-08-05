@@ -98,9 +98,6 @@ The model showed **high accuracy** and strong handling of class imbalance, espec
 
 **Bhanu Prakash Achini**
 📧 [bhanuprakashachini08@gmail.com](mailto:bhanuprakashachini08@gmail.com)
-🔗 [GitHub](https://github.com/Bhanuprakashachini)
 
 ---
-
-Would you like this exported as a `README.md` file for direct upload to your GitHub repo?
 
